@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+# Enable debug code, if nostrip was given.
+ifeq (,$(findstring nostrip,$(DEB_BUILD_OPTIONS)))
+        INSTALL_PROGRAM += -s
+else
+        DEBUG_OPTS += --enable-debug
+endif
+%:
+	dh $@
