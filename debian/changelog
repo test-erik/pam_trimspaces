@@ -1,4 +1,16 @@
-libpam-trimspaces (1.0.1testerik.1) unstable; urgency=medium
+libpam-trimspaces (1.0.1testerik.1) jammy; urgency=medium
+
+  * Update Debian control files, otherwise no changes.
+
+ -- Test Erik <0etaka0@gmail.com>  Wed, 18 Jan 2023 17:51:29 +0100
+
+libpam-trimspaces (1.0.1testerik.1) bullseye; urgency=medium
+
+  * Update Debian control files, otherwise no changes.
+
+ -- Test Erik <0etaka0@gmail.com>  Wed, 18 Jan 2023 17:51:29 +0100
+
+libpam-trimspaces (1.0.1testerik.1) bookworm; urgency=medium
 
   * Update Debian control files, otherwise no changes.
 
