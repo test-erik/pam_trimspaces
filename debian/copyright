@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mypackage
+Upstream-Contact: Firstname Lastname <email@server.com>
+Source: https://github.com/test-erik/pam_trimspaces
+
+Files: *
+Copyright: 2011-2020 Firstname Lastname <email@server.com>
+License: GPL-3+
